@@ -2,7 +2,7 @@
 %define version 0.7
 %define release %mkrel 6
 
-Summary: Programs for helping spell checking.
+Summary: Programs for helping spell checking
 Name: %{name}
 Version: %{version}
 Release: %{release}
