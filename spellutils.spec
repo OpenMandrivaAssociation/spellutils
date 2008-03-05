@@ -1,11 +1,10 @@
 %define name spellutils
 %define version 0.7
-%define release %mkrel 6
 
 Summary: Programs for helping spell checking
 Name: %{name}
 Version: %{version}
-Release: %{release}
+Release: %mkrel 7
 Source0: http://home.worldonline.dk/byrial/spellutils/%{name}-%{version}.tar.bz2
 License: GPL
 URL: http://home.worldonline.dk/byrial/spellutils/
