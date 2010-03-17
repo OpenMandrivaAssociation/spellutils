@@ -4,7 +4,7 @@
 Summary: Programs for helping spell checking
 Name: %{name}
 Version: %{version}
-Release: %mkrel 9
+Release: %mkrel 10
 Source0: http://home.worldonline.dk/byrial/spellutils/%{name}-%{version}.tar.bz2
 License: GPL
 URL: http://home.worldonline.dk/byrial/spellutils/
