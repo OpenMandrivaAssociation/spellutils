@@ -4,7 +4,7 @@
 Summary: Programs for helping spell checking
 Name: %{name}
 Version: %{version}
-Release: 22
+Release: 23
 Source0: http://home.worldonline.dk/byrial/spellutils/%{name}-%{version}.tar.bz2
 License: GPL
 URL: http://home.worldonline.dk/byrial/spellutils/
@@ -94,7 +94,7 @@ rm -rf $RPM_BUILD_ROOT
 * Sun Jan 01 2006 Mandriva Linux Team <http://www.mandrivaexpert.com/> 0.7-5mdk
 - Rebuild
 
-* Sat Jul 12 2003 Per Øyvind Karlsen <peroyvind@sintrax.net> 0.7-4mdk
+* Sat Jul 12 2003 Per Ã˜yvind Karlsen <peroyvind@sintrax.net> 0.7-4mdk
 - rebuild
 - drop Prefix tag and redundant buildrequires
 
