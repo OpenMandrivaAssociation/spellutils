@@ -7,7 +7,7 @@ Version: %{version}
 Release: 24
 Source0: http://home.worldonline.dk/byrial/spellutils/%{name}-%{version}.tar.bz2
 License: GPL
-URL: http://home.worldonline.dk/byrial/spellutils/
+URL: https://home.worldonline.dk/byrial/spellutils/
 Group: Text tools
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Obsoletes: pospell
