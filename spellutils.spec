@@ -14,6 +14,11 @@ Obsoletes: pospell
 Provides: pospell
 Requires: common-licenses
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Spellutils is a suite of programs which are used to isolate some parts
 or texts from various types of files and hand them over to another
